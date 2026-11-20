@@ -1,0 +1,6 @@
+{
+  "name": "Libris - Gestion de Bibliothèque",
+  "description": "Système professionnel de gestion de bibliothèque : catalogue, prêts & retours, adhérents, relances et statistiques en temps réel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
